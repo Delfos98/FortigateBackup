@@ -1,0 +1,6 @@
+entity="Name of Company"
+ip="1.2.3.4" 
+port="3452"
+user="User"
+pass="Pa$$W0rd"
+directory="/hom/directory/backup/Store"
